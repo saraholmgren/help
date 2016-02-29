@@ -1,0 +1,9 @@
+
+alpha | score: 0
+bravo | score: 10
+charlie | score: 3
+delta | score: 4
+echo | score: 3
+foxtrot | score: 4
+golf | score: 1
+india | score: 1
