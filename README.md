@@ -1,0 +1,2 @@
+# help
+i hate ocr
