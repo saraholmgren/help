@@ -1,0 +1,15 @@
+alpha 0
+alpha 7
+alpha 9
+bravo 4
+bravo 8
+bravo 10
+charlie 6
+charlie 9
+charlie 1
+delta 4
+delta 6
+delta 7
+echo 10
+echo 7
+echo 3
